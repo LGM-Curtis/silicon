@@ -1,0 +1,31 @@
+H:\DASANXIA\C#\silicon\silicon\bin\Debug\silicon.exe
+H:\DASANXIA\C#\silicon\silicon\bin\Debug\silicon.pdb
+H:\DASANXIA\C#\silicon\silicon\obj\x86\Debug\silicon.Form1.resources
+H:\DASANXIA\C#\silicon\silicon\obj\x86\Debug\silicon.Mainforms.resources
+H:\DASANXIA\C#\silicon\silicon\obj\x86\Debug\silicon.Properties.Resources.resources
+H:\DASANXIA\C#\silicon\silicon\obj\x86\Debug\silicon.serch.resources
+H:\DASANXIA\C#\silicon\silicon\obj\x86\Debug\silicon.csproj.GenerateResource.Cache
+H:\DASANXIA\C#\silicon\silicon\obj\x86\Debug\silicon.exe
+H:\DASANXIA\C#\silicon\silicon\obj\x86\Debug\silicon.pdb
+H:\DASANXIA\C#\silicon\silicon\bin\Debug\silicon.exe.config
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\bin\Debug\silicon.exe.config
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.exe
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.pdb
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\bin\Debug\silicon.exe
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\bin\Debug\silicon.pdb
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.Form1.resources
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.Mainforms.resources
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.Properties.Resources.resources
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.serch.resources
+H:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.csproj.GenerateResource.Cache
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\bin\Debug\silicon.exe.config
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.exe
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.pdb
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\bin\Debug\silicon.exe
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\bin\Debug\silicon.pdb
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.csprojResolveAssemblyReference.cache
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.Form1.resources
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.Mainforms.resources
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.Properties.Resources.resources
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.serch.resources
+G:\DASANXIA\C#\15计科三班 王昊 1512402603034 大作业（包含文档及程序）\silicon\silicon\obj\x86\Debug\silicon.csproj.GenerateResource.Cache
